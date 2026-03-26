@@ -19,7 +19,7 @@ Udemy course and Cisco Packet Tracer labs.
 |-----|---------------|---------------|--------|
 | 1 | Network Components, Resources, Geography | Lab 1 — Basic Network | ✅ |
 | 2 | Network Topologies - Wired,Wireless,Data Center | Lab 2 — Extended Network | ✅ |
-| 3 | OSI Model - Physical,Data link |
+| 3 | OSI Model - Physical,Data link | Lab 3 - Switch Mac Address Table | ✅ |
 | 4 | OSI Model - Network,Transport,Session | 
 
 -------
