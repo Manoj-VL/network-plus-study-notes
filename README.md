@@ -20,7 +20,9 @@ Udemy course and Cisco Packet Tracer labs.
 | 1 | Network Components, Resources, Geography | Lab 1 — Basic Network | ✅ |
 | 2 | Network Topologies - Wired,Wireless,Data Center | Lab 2 — Extended Network | ✅ |
 | 3 | OSI Model - Physical,Data link | Lab 3 - Switch Mac Address Table | ✅ |
-| 4 | OSI Model - Network,Transport,Session | 
+| 4 | OSI Model - Network,Transport,Session | ✅ | Lab 4 -Routing+ HTTP | ✅ |
+| 5 | OSI Model - Presentation,Application,Encapsulaton|Lab 5 Data Encapuslation in Simulation Mode| ✅ |
+| 6 | Full Revision|
 
 -------
 
@@ -146,3 +148,7 @@ show mac-address-table
 
 
 <img width="1920" height="1080" alt="Screenshot (20)" src="https://github.com/user-attachments/assets/7a66656d-6a33-4dc9-8778-6808d7750274" />
+
+--------
+
+# Lab 4 Routing +
