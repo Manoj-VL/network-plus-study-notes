@@ -20,7 +20,7 @@ Udemy course and Cisco Packet Tracer labs.
 | 1 | Network Components, Resources, Geography | Lab 1 — Basic Network | ✅ |
 | 2 | Network Topologies - Wired,Wireless,Data Center | Lab 2 — Extended Network | ✅ |
 | 3 | OSI Model - Physical,Data link | Lab 3 - Switch Mac Address Table | ✅ |
-| 4 | OSI Model - Network,Transport,Session | ✅ | Lab 4 -Routing+ HTTP | ✅ |
+| 4 | OSI Model - Network,Transport,Session |  Lab 4 -Routing+ HTTP | ✅ |
 | 5 | OSI Model - Presentation,Application,Encapsulaton|Lab 5 Data Encapuslation in Simulation Mode| ✅ |
 |6-8| Break due to health issues
 | 9 | Full Revision| OSI Model and Encapusalation |
@@ -85,7 +85,7 @@ exit
 - Wired Topologies — Bus, Ring, Star, Mesh
 - Wireless Topologies — Infrastructure, Ad Hoc, Mesh
 - Data Center Topologies — Three tier, Spine and Leaf
------
+
 
 ### Key Takeaways
 - Star topology is most common in modern networks
