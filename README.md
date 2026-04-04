@@ -1,4 +1,4 @@
-<img width="1920" height="1080" alt="Screenshot (27)" src="https://github.com/user-attachments/assets/3c1a9abb-6e82-48cc-8174-ec10b83b3a42" /><img width="1920" height="1080" alt="Screenshot (22)" src="https://github.com/user-attachments/assets/f96f8c43-294a-4d2b-9431-ba96e0ee62d0" /># CompTIA Network+ Study Journey
+# CompTIA Network+ Study Journey
 
 Documenting my hands-on learning as I prepare
 for the CompTIA Network+ exam using Jason Dion's
