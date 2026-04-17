@@ -94,7 +94,7 @@ exit
   — every device connects to every other device
 - Spine and Leaf is standard in modern data centers
   — used by companies like Microsoft Azure
-----------
+
 
 ## Lab 2 — Extended Network
 **Topology:**
@@ -117,8 +117,16 @@ PC1 → Switch → Router → Switch2 → PC2
 <img width="1920" height="1080" alt="Screenshot (18)" src="https://github.com/user-attachments/assets/62f6a7f6-da08-4004-8e34-d359fd43f308" />
 
 -------
+## Day3
+### Topics Learned
+- Intoduction to OSI Model
+- Layer 1 Physical Layer
+- Layer 2 Data-Link Layer
 
-# Lab 3 — Switch MAC Address Table
+## Lab 3 — Switch MAC Address Table
+
+**Topology** 
+Same as lab 2
 
 **Goal:** Observe how switches learn MAC addresses at Layer 2
 
