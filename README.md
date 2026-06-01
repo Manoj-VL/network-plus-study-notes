@@ -12,7 +12,7 @@ Udemy course and Cisco Packet Tracer labs.
 | Background | Mechanical Engineering |
 | Goal | Cloud Security Engineer — Microsoft Azure |
 | Certification Path | Network+ → Security+ → AZ-900 → AZ-500 |
-| Packet Tracer Labs [View](https://github.com/Manoj-VL/Packet-Tracer-Labs) |
+| Packet Tracer Labs |[View](https://github.com/Manoj-VL/Packet-Tracer-Labs) |
 | CyberDefenders | [cyberdefenders-writeups](https://github.com/yourusername/cyberdefenders-writeups) |
 
 ---
@@ -29,29 +29,27 @@ Udemy course and Cisco Packet Tracer labs.
 
 ## Progress Tracker
 
-| Day | Topics Covered | Lab | Status |
+| No | Topics Covered | Lab | Status |
 |-----|---------------|-----|--------|
 | 1 | Network Components, Resources, Geography | [Lab 1](https://github.com/Manoj-VL/Packet-Tracer-Labs/blob/main/lab1-basic-network.md) | ✅ |
 | 2 | Network Topologies — Wired, Wireless DataCenter Topologies - 3 Tiered,Collapsed core,Spine and Leaf | [Lab 2](https://github.com/Manoj-VL/Packet-Tracer-Labs/blob/main/lab2-extended-network.md) | ✅ |
 | 3 | OSI Layer 1-2 | [Lab 3](https://github.com/Manoj-VL/Packet-Tracer-Labs/blob/main/lab3-mac-address-table.md) | ✅ |
 | 4 | OSI Layer 3-4-6 |[Lab 4](https://github.com/Manoj-VL/Packet-Tracer-Labs/blob/main/lab4-Routing-Table%2BHTTP-Server.md)  | ✅ |
-| 5 | Apr 05 | OSI Layer 5-7, Encapsulation | [Lab 5](https://github.com/Manoj-VL/Packet-Tracer-Labs/blob/main/lab5-Data-Encapsulation-in-Simulation-mode.md) | ✅  |
-| 6-8 | Apr 06-08 | Health break | — | 🤒 |
-| 9 | Apr 09 | OSI Full Revision | No lab | ✅ |
-| 10 | Apr 10 | Ports and Protocols | No lab | ✅ |
-| 11 | Apr 11 | Wireshark + Nmap | [Wireshark Capture](https://github.com/yourusername/network-plus-study-notes/blob/main/wireshark-labs.md) | ✅ |
-| 12 | Apr 12 | Ports Revision | [Lab 6](https://github.com/yourusername/packet-tracer-labs/blob/main/Lab6-Ports-FTP-HTTP/writeup.md) | ✅ |
-| 13 | Apr 13 | DNS, DHCP, SSH, Telnet | [Lab 7](https://github.com/yourusername/packet-tracer-labs/blob/main/Lab7-DNS-DHCP-SSH-Telnet/writeup.md) | ✅ |
-| 14 | Apr 14 | Media and Connectors | No lab | ✅ |
-| 15 | Apr 15 | Distribution System | No lab | ✅ |
-| 16 | Apr 16 | Wireless Networks | [Lab 8](https://github.com/yourusername/packet-tracer-labs/blob/main/Lab8-Wireless-Network/writeup.md) | ✅ |
-| 17 | Apr 17 | Wireless Security | No lab | ✅ |
-| 18 | Apr 18 | Ethernet Switching | No lab | ✅ |
-| 19 | Apr 19 | VLANs | No lab | ✅ |
-| 20 | Apr 20 | STP, NAC, MTU | [Lab 9](https://github.com/yourusername/packet-tracer-labs/blob/main/Lab9-VLAN-Configuration/writeup.md) | ✅ |
-| 21 | Apr 21 | STP Revision | No lab | ✅ |
-| 22 | Apr 22 | Section 9 IP Addressing | No lab | 🔄 |
-
+| 5 | OSI Layer 5-7, Encapsulation | [Lab 5](https://github.com/Manoj-VL/Packet-Tracer-Labs/blob/main/lab5-Data-Encapsulation-in-Simulation-mode.md) | ✅  |
+| 6-8 | Health break | — | 🤒 |
+| 9 |OSI Full Revision | No lab | ✅ |
+| 10| Ports and Protocols | [Wireshark Capture - DNS,HTTP,HTTPS](https://github.com/Manoj-VL/Security-Analysis-Labs/blob/main/Wireshark/Capture1-Basic-Traffic/writeup.md) | ✅ |
+| 11 | Ports and Protocols (Cont.)| [Lab 6](https://github.com/Manoj-VL/Packet-Tracer-Labs/blob/main/lab6-Ports-in-Action.md) | ✅ |
+| 12 | Media and Connectors |[Lab7](https://github.com/Manoj-VL/Packet-Tracer-Labs/blob/main/lab7-DHCP-DNS-Telnet-SSH.md) | ✅ |
+| 13 | Distribution System | No lab | ✅ |
+| 14 | Wireless Networks | [Lab 8](https://github.com/Manoj-VL/Packet-Tracer-Labs/blob/main/lab8-Wireless-Network-with-WPA2.md) | ✅ |
+| 15 | Wireless Security | No lab | ✅ |
+| 16 | Ethernet Switching | No lab | ✅ |
+| 17 | Ehternet Swiching(Cont.)-VLAN,STP |[Lab9](https://github.com/Manoj-VL/Packet-Tracer-Labs/blob/main/lab9-VLAN-Configuration.md) | ✅ |
+| 18 | IP Addressing | No lab |✅  |
+| 19 | IP Addressing(cont.) | [lab10](https://github.com/Manoj-VL/Packet-Tracer-Labs/blob/main/lab10-subnetting.md)| ✅ |
+| 20 | Routing - Fundamentals,Routing Tables, Routing Protocols,Route Selection |[Lab10](https://github.com/Manoj-VL/Packet-Tracer-Labs/blob/main/lab11-Static-Routing.md) |✅|
+| 21 | Routing - Address Transalation(NAT,PAT), Routing Redundancy Protocol,Mulricast Routing, GRE | Packet Maze(Cyberdefenders)-|✅|
 ---
 
 ## Packet Tracer Labs
