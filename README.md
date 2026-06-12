@@ -48,8 +48,14 @@ Udemy course and Cisco Packet Tracer labs.
 | 17 | Ehternet Swiching(Cont.)-VLAN,STP |[Lab9](https://github.com/Manoj-VL/Packet-Tracer-Labs/blob/main/lab9-VLAN-Configuration.md) | ✅ |
 | 18 | IP Addressing | No lab |✅  |
 | 19 | IP Addressing(cont.) | [lab10](https://github.com/Manoj-VL/Packet-Tracer-Labs/blob/main/lab10-subnetting.md)| ✅ |
-| 20 | Routing - Fundamentals,Routing Tables, Routing Protocols,Route Selection |[Lab10](https://github.com/Manoj-VL/Packet-Tracer-Labs/blob/main/lab11-Static-Routing.md) |✅|
-| 21 | Routing - Address Transalation(NAT,PAT), Routing Redundancy Protocol,Mulricast Routing, GRE | Packet Maze(Cyberdefenders)-|✅|
+| 20 | Routing - Fundamentals,Routing Tables, Routing Protocols,Route Selection |[Lab11](https://github.com/Manoj-VL/Packet-Tracer-Labs/blob/main/lab11-Static-Routing.md) |✅|
+| 21 | Routing - Address Transalation(NAT,PAT), Routing Redundancy Protocol,Mulricast Routing, GRE | [Lab12](https://github.com/Manoj-VL/Packet-Tracer-Labs/blob/main/lab12-PAT%20and%20NAT.md)|✅|
+| 22 | Networking Services - DHCP,DNS,DNS Record Types, Securing DNS | [Lab-13](https://github.com/Manoj-VL/Packet-Tracer-Labs/blob/main/lab13-DHCP%26DNS.md) | ✅ |
+| 23 | Networking Services(cont.) - NTP,QoS -QoS,Mechanism,Categorization | No Lab|✅ |
+| 24 | Wide Area Network links - FTTx, DOCSICS, DSL, Satellite, Cellular | No Lab|✅ |
+| 25 |  Wide Area Network links- Microwave, Leased Lines, MPLS| No Lab|✅ |
+| 26 | Cloud and Data Centers - Cloud Computing, Cloud Service Models, Cloud Deployment Models, Cloud Connectivity, Cloud Security| No Lab, Cyberdefender Lab 1 - Packet Maze|✅ |
+
 ---
 
 ## Packet Tracer Labs
@@ -63,12 +69,16 @@ repository.
 | Lab 1 | Basic Network | Network Fundamentals | ✅ | [View](https://github.com/yourusername/packet-tracer-labs/blob/main/Lab1-Basic-Network/writeup.md) |
 | Lab 2 | Extended Network | Network Topologies | ✅ | [View](https://github.com/yourusername/packet-tracer-labs/blob/main/Lab2-Extended-Network/writeup.md) |
 | Lab 3 | MAC Address Table | OSI Layer 2 | ✅ | [View](https://github.com/yourusername/packet-tracer-labs/blob/main/Lab3-MAC-Address-Table/writeup.md) |
-| Lab 4 | Routing + HTTP Server | OSI Layer 3-7 | ✅ | [View](link) |
-| Lab 5 | Simulation Mode | Encapsulation | ✅ | [View](link) |
-| Lab 6 | Ports FTP + HTTP | Ports and Protocols | ✅ | [View](link) |
-| Lab 7 | DNS, DHCP, SSH, Telnet | Network Services | ✅ | [View](link) |
-| Lab 8 | Wireless Network | Wireless Networking | ✅ | [View](link) |
-| Lab 9 | VLAN Configuration | Ethernet Switching | ✅ | [View](link) |
+| Lab 4 | Routing + HTTP Server | OSI Layer 3-7 | ✅ | [View]((https://github.com/Manoj-VL/Packet-Tracer-Labs/blob/main/lab4-Routing-Table%2BHTTP-Server.md)) |
+| Lab 5 | Simulation Mode | Encapsulation | ✅ | [View](https://github.com/Manoj-VL/Packet-Tracer-Labs/blob/main/lab5-Data-Encapsulation-in-Simulation-mode.md) |
+| Lab 6 | Ports FTP + HTTP | Ports and Protocols | ✅ | [View](https://github.com/Manoj-VL/Packet-Tracer-Labs/blob/main/lab6-Ports-in-Action.m) |
+| Lab 7 | DNS, DHCP, SSH, Telnet | Network Services | ✅ | [View](https://github.com/Manoj-VL/Packet-Tracer-Labs/blob/main/lab7-DHCP-DNS-Telnet-SSH.md) |
+| Lab 8 | Wireless Network | Wireless Networking | ✅ | [View](https://github.com/Manoj-VL/Packet-Tracer-Labs/blob/main/lab8-Wireless-Network-with-WPA2.md) |
+| Lab 9 | VLAN Configuration | Ethernet Switching | ✅ | [View](https://github.com/Manoj-VL/Packet-Tracer-Labs/blob/main/lab9-VLAN-Configuration.md) |
+| Lab 10| Subnetting | IP Addressing, Subnetting | ✅ | [View](https://github.com/Manoj-VL/Packet-Tracer-Labs/blob/main/lab10-subnetting.md)
+| Lab 11| Static Routing | Routing |✅ | [View](https://github.com/Manoj-VL/Packet-Tracer-Labs/blob/main/lab11-Static-Routing.md) |
+| Lab 12| PAT & NAT | Address Translation| ✅ | [View](https://github.com/Manoj-VL/Packet-Tracer-Labs/blob/main/lab12-PAT%20and%20NAT.md) |
+| Lab 13 | DNS & DHCP | DHCP and DNS | ✅ | [View](https://github.com/Manoj-VL/Packet-Tracer-Labs/blob/main/lab13-DHCP%26DNS.md) |
 
 ---
 
@@ -142,6 +152,19 @@ Profile: [tryhackme.com/p/yourusername](https://tryhackme.com/p/yourusername)
 | 80 | HTTP | TCP | Web unencrypted |
 | 443 | HTTPS | TCP | Web encrypted |
 | 3389 | RDP | TCP | Remote desktop |
+
+
+### Copper Cables
+| Cable              | Speed (Upto)                  | Length | Frequency |
+| ------------------ | ----------------------------- | ------ | --------- |
+| CAT 5              | 100 Mbps                      | 100 m  | 100 Mhz   |
+| CAT 5e (enhanced)  | 1G bps                        | 100 m  | 100 Mhz   |
+| CAT 6              | 10 Gbps (if >55 m)else 1 Gbps | 100 m  | 250 Mhz   |
+| CAT 6a (augmented) | 10 Gbps                       | 100 m  | 500 Mhz   |
+| CAT 7              | 10 Gbps                       | 100 m  | 600 Mhz   |
+| CAT 8              | 40 Gbps                       | 100 m  | 2 GHZ     |
+
+
 
 ### 802.11 Wireless Standards
 | Standard | Frequency | Max Speed | Name |
