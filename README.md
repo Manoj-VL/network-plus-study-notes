@@ -66,12 +66,12 @@ repository.
 
 | Lab | Topic | Section | Status | Writeup |
 |-----|-------|---------|--------|---------|
-| Lab 1 | Basic Network | Network Fundamentals | ✅ | [View](https://github.com/yourusername/packet-tracer-labs/blob/main/Lab1-Basic-Network/writeup.md) |
-| Lab 2 | Extended Network | Network Topologies | ✅ | [View](https://github.com/yourusername/packet-tracer-labs/blob/main/Lab2-Extended-Network/writeup.md) |
-| Lab 3 | MAC Address Table | OSI Layer 2 | ✅ | [View](https://github.com/yourusername/packet-tracer-labs/blob/main/Lab3-MAC-Address-Table/writeup.md) |
-| Lab 4 | Routing + HTTP Server | OSI Layer 3-7 | ✅ | [View]((https://github.com/Manoj-VL/Packet-Tracer-Labs/blob/main/lab4-Routing-Table%2BHTTP-Server.md)) |
+| Lab 1 | Basic Network | Network Fundamentals | ✅ | [View](https://github.com/Manoj-VL/Packet-Tracer-Labs/blob/main/lab1-basic-network.md) |
+| Lab 2 | Extended Network | Network Topologies | ✅ | [View](https://github.com/Manoj-VL/Packet-Tracer-Labs/blob/main/lab2-extended-network.md) |
+| Lab 3 | MAC Address Table | OSI Layer 2 | ✅ | [View](https://github.com/Manoj-VL/Packet-Tracer-Labs/blob/main/lab3-mac-address-table.md) |
+| Lab 4 | Routing + HTTP Server | OSI Layer 3-7 | ✅ | [View](https://github.com/Manoj-VL/Packet-Tracer-Labs/blob/main/lab4-Routing-Table%2BHTTP-Server.md) |
 | Lab 5 | Simulation Mode | Encapsulation | ✅ | [View](https://github.com/Manoj-VL/Packet-Tracer-Labs/blob/main/lab5-Data-Encapsulation-in-Simulation-mode.md) |
-| Lab 6 | Ports FTP + HTTP | Ports and Protocols | ✅ | [View](https://github.com/Manoj-VL/Packet-Tracer-Labs/blob/main/lab6-Ports-in-Action.m) |
+| Lab 6 | Ports FTP + HTTP | Ports and Protocols | ✅ | [View](https://github.com/Manoj-VL/Packet-Tracer-Labs/blob/main/lab6-Ports-in-Action.md) |
 | Lab 7 | DNS, DHCP, SSH, Telnet | Network Services | ✅ | [View](https://github.com/Manoj-VL/Packet-Tracer-Labs/blob/main/lab7-DHCP-DNS-Telnet-SSH.md) |
 | Lab 8 | Wireless Network | Wireless Networking | ✅ | [View](https://github.com/Manoj-VL/Packet-Tracer-Labs/blob/main/lab8-Wireless-Network-with-WPA2.md) |
 | Lab 9 | VLAN Configuration | Ethernet Switching | ✅ | [View](https://github.com/Manoj-VL/Packet-Tracer-Labs/blob/main/lab9-VLAN-Configuration.md) |
@@ -84,9 +84,9 @@ repository.
 
 ## Wireshark Labs
 
-| Capture | Focus | Status | Notes |
-|---------|-------|--------|-------|
-| Capture 1 | Basic Traffic Analysis | ✅ | DNS, HTTP, TCP filters |
+| Capture | Focus | Status |Noted|Write up|
+|---------|-------|--------|-------|------|
+| Capture 1 | Basic Traffic Analysis | ✅ | DNS, HTTP, TCP filters |[View](https://github.com/Manoj-VL/Security-Analysis-Labs/blob/main/Wireshark/Capture1-Basic-Traffic/writeup.md)|
 
 ---
 
@@ -98,7 +98,7 @@ repository.
 
 | Lab | Category | Difficulty | Status | Writeup |
 |-----|----------|------------|--------|---------|
-| PacketMaze | Network Forensics | Easy | ✅ | [View](https://github.com/yourusername/cyberdefenders-writeups/blob/main/PacketMaze/writeup.md) |
+| PacketMaze | Network Forensics | Easy | ✅ | [View]() |
 
 ---
 
